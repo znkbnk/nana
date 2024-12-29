@@ -1,0 +1,42 @@
+
+
+{
+    "gallery": [
+      {
+        "id": 0,
+        "src": "path/to/image1.jpg",
+        "name": "Image 1",
+        "desc": "Description for image 1",
+        "tags": ["tag1", "tag2"]
+      },
+      {
+        "id": 1,
+        "src": "path/to/image2.jpg",
+        "name": "Image 2",
+        "desc": "Description for image 2",
+        "tags": ["tag3", "tag4"]
+      },
+      {
+        "id": 2,
+        "src": "path/to/image3.jpg",
+        "name": "Image 3",
+        "desc": "Description for image 3",
+        "tags": ["tag5", "tag6"]
+      },
+      {
+        "id": 3,
+        "src": "path/to/image4.jpg",
+        "name": "Image 4",
+        "desc": "Description for image 4",
+        "tags": ["tag7", "tag8"]
+      },
+      {
+        "id": 4,
+        "src": "path/to/image5.jpg",
+        "name": "Image 5",
+        "desc": "Description for image 5",
+        "tags": ["tag9", "tag10"]
+      }
+    ]
+  }
+  
